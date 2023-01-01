@@ -1,0 +1,7 @@
+---
+apiVersion: tackle.konveyor.io/v1alpha1
+kind: Addon
+metadata:
+  name: move2kube
+spec:
+  image: quay.io/hari_balagopal/tackle2-addon-move2kube:latest
